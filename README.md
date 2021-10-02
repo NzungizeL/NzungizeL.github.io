@@ -1,6 +1,6 @@
 Hello, 
 
-My name is Nzungize Lambert, Biomedical Omics Data Science Practitioner, and Machine Learning Enthusiast works in Linux, R and Python. 
+My name is Nzungize Lambert, Omics Data Science Practitioner and Machine Learning Enthusiast works in Linux, R and Python. 
 I am broadly interested in NGS data analysis and Computational biology to drive disease mechanisms, biomarkers identification, 
 and therapeutic targets for drug development.
 
