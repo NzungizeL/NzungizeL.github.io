@@ -9,3 +9,9 @@ and therapeutic targets for drug development.
 
 - I wrote a Book: _Mastering RNA Seq Data Analysis in Infectious Diseases: Practices: (Malaria and COVID-19)_.
 The entire eBook is available on [Amazon.com](https://www.amazon.com/dp/B09DXGYFHR) or for free through [nzulapa@outlook.com](nzulapa@outlook.com) request.
+
+## Projects
+   * Dual RNA-seq profiles of Malaria Vectors and Bacteria, NIH/ASBCB Omics Codeathon.
+   * Young Scientists from the Global South of the Biosecurity Diplomacy, United Nations.
+   * Infectious Diseases Genomics Workshop (RNA seq data analysis in Linux), ISCB Africa.
+
