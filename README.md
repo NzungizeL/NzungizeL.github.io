@@ -5,7 +5,7 @@ I am broadly interested in NGS data analysis and Computational biology to drive 
 and therapeutic targets for drug development.
 
 
-- I write about Bioinformatics and Machine Learning ideas on Twitter [ @nzulapa](https://twitter.com/nzulapa) and [LinkedIn](https://www.linkedin.com/in/nzungize-lambert-7b1a57127/).
+- I write about Bioinformatics and Machine Learning ideas on Twitter [ @nzulapa](https://twitter.com/nzulapa), Synbio Rwanda [blog](https://www.synbiorwanda.com/page-zlwLrU) and [LinkedIn](https://www.linkedin.com/in/nzungize-lambert-7b1a57127/).
 
 - I wrote a Book: _Mastering RNA Seq Data Analysis in Infectious Diseases: Practices: (Malaria and COVID-19)_.
 The entire eBook is available on [Amazon.com](https://www.amazon.com/dp/B09DXGYFHR) or for free through [email](nzulapa@outlook.com) request.
