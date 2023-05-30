@@ -2,7 +2,7 @@ Hello,  :octocat:
 
 My name is Nzungize Lambert, Omics Data Science Practitioner and Machine Learning Enthusiast works in Linux, R and Python. 
 I am broadly interested in NGS data analysis and Computational biology to drive disease mechanisms, biomarkers identification, 
-and therapeutic targets for drug development.
+and therapeutic targets for drug development.I'd be happy to collaborate on ML/DL based projects in omics data.
 
 
 - I write about Bioinformatics and Machine Learning ideas on Twitter [ @nzulapa](https://twitter.com/nzulapa), Synbio Rwanda [blog](https://www.synbiorwanda.com/page-zlwLrU) and [LinkedIn](https://www.linkedin.com/in/nzungize-lambert-7b1a57127/).
